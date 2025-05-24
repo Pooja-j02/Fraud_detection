@@ -7,11 +7,6 @@ This project focuses on detecting fraudulent transactions using machine learning
 
 Financial fraud, especially involving credit cards, is a growing concern. This project uses supervised machine learning to classify transactions as fraudulent or legitimate. The primary goal is to build a reliable model that can detect fraud with high precision and recall.
 
-## 📓 Demo Notebook
-
-Access the full project here:  
-👉 [Google Colab Notebook](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK)
-
 ## ✅ Features
 
 - Data Cleaning & Preprocessing
